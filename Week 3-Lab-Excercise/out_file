@@ -1,0 +1,13 @@
+number:	123
+identifier:	main
+delimiter:	(
+delimiter:	)
+delimiter:	{
+keyword:	int
+identifier:	a
+delimiter:	,
+identifier:	b
+relational_operator:	=
+number:	5.876
+delimiter:	;
+comment did not close
